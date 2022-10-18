@@ -9,4 +9,4 @@ Map Output:
 [[Dhaka, Sylhet], [Chottogram, Barishal], [Rajshahi, Dhaka, Sylhet]]
 
 Flat Map Output: 
-[Rajshahi, Chottogram, Barishal, Dhaka, Sylhet] (by applying distinct like this: collect(Collectors.toSet()))
+[Rajshahi, Chottogram, Barishal, Dhaka, Sylhet] (by applying distinct like this: .collect(Collectors.toSet()))
